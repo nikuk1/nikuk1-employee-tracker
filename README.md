@@ -22,8 +22,7 @@ install ctable
 install mysql2
 
 ## Usage 
-Walkthrough Video:
--
+Walkthrough Video: https://drive.google.com/file/d/1NsAyb6qgFqkyznKw58lu4OSCCftEOQ2w/view
 
 ## License
 -
