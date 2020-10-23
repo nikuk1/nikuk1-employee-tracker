@@ -17,6 +17,9 @@ I am expected to achieve the expected result.
 
 ## Installation
 -
+npm install inquirer
+install ctable
+install mysql2
 
 ## Usage 
 Walkthrough Video:
